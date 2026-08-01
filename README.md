@@ -5,7 +5,7 @@ An AI-powered attendance management system that automates classroom attendance u
 ## 🚀 Live Demo
 
 ### 🌐 Landing Page
-> Add your Vercel URL here
+> https://intelligent-ai-attendance-onzf5s5rw-shivambharti-29s-projects.vercel.app/
 
 ### 🤖 AI Attendance Application
 > https://intelligent-ai-attendance-fnl5cwown9lpmxsyveum5y.streamlit.app/
